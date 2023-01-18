@@ -1,4 +1,4 @@
-# agrogob
+# agrigob
 
 Proyecto de la Secretaria de Agricultura del estado de Zacatecas
 

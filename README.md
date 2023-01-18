@@ -1,6 +1,6 @@
 # agrigob
 
-Proyecto de la Secretaria de Agricultura del estado de Zacatecas
+Proyecto de la Secretaría de Agricultura y Desarrollo  Rural (SADER) del estado de Zacatecas
 
 ## Getting Started
 
